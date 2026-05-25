@@ -1,5 +1,5 @@
 # Real-time-gesture-controlled-bionic-hand
-A model of a bionic hand that tracks and mimics real time hand movements using a hand landmarks with a webcam.
+A model of a bionic hand that tracks and mimics real time hand movements using hand landmarkers with a webcam.
 
 <img width="480" height="696" alt="image" src="https://github.com/user-attachments/assets/049817f5-1855-4ebf-9459-99a2d4002eef" />
 
